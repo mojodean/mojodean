@@ -14,7 +14,7 @@ I'm a graduate student at the University of San Diego, pursuing a [Master of Sci
 
 Reach me via [email](https://www.deanpsimmer.com/contact/) or on [LinkedIn](https://www.linkedin.com/in/deanpsimmer/) if that's your preference.
 
-[![mojodean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojodean)](https://github.com/mojodean/github-readme-stats)
+[![mojodean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojodean)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mojodean/mojodean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
