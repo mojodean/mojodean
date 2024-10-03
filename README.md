@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### J-O-B
+I work as a senior leader in software engineering in Detroit, Michigan.
+
+### Studying
+I'm a student at the University of San Diego, pursuing a Master of Science in Applied Artificial Intelligence.
+
 <!--
 **mojodean/mojodean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
