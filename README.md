@@ -7,7 +7,7 @@ Dean P. Simmer (he/him/his)
 I work as a senior leader in software engineering in Detroit, Michigan, focused on using APIs and services to enable consumer experiences.  
 
 ### Study
-I'm a graduate student at the University of San Diego, pursuing a [Master of Science in Applied Artificial Intelligence][https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php].
+I'm a graduate student at the University of San Diego, pursuing a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php).
 
 
 ### Contact
