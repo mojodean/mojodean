@@ -1,22 +1,18 @@
 ## Personal Bio
 
-### Name
-Dean P. Simmer
-
-### Pronouns
-He/Him/His
+### Who I Am
+Dean P. Simmer (he/him/his)
 
 ### Work
-I work as a senior leader in software engineering in Detroit, Michigan.
-
-I co-founded Prideraiser.
+I work as a senior leader in software engineering in Detroit, Michigan, focused on using APIs and services to enable consumer experiences.  
 
 ### Study
-I'm a student at the University of San Diego, pursuing a Master of Science in Applied Artificial Intelligence.
+I'm a graduate student at the University of San Diego, pursuing a [Master of Science in Applied Artificial Intelligence][https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php].
+
 
 ### Contact
 
-Reach me via [email](https://www.deanpsimmer.com/contact/). 
+Reach me via [email](https://www.deanpsimmer.com/contact/) or on [LinkedIn](https://www.linkedin.com/in/deanpsimmer/) if that's your preference.
 
 <!--
 **mojodean/mojodean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
