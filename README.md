@@ -22,7 +22,7 @@ I am a Vice President of Engineering at Rocket Companies, based out of Detroit, 
 
 - 📝 *Towards a Christian Ethical Framework for Artificial Intelligence*
     - 2019 (unpublished)
-    - Capstone Essay for Master of Arts in Religion (Church History & Theology).
+    - Capstone Research Project for Master of Arts in Religion (Church History & Theology).
     - Focused on how a Christian ethical understand of humanity might inform a perspective on artificial intelligence.
 
 
