@@ -1,5 +1,5 @@
-## Hello! I'm Dean P. Simmer. 
-### My pronouns are he/him and you can call me Dean.
+## Hello! I'm Dean P. Simmer 
+### My pronouns are he/him. Feel free to call me Dean. 😊
 
 ### About Me
 I have a full time career in software engineering leadership. In addition, I'm pursuing a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
