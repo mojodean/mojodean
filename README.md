@@ -20,7 +20,7 @@ I am a Vice President of Engineering at Rocket Companies, based out of Detroit, 
     - **Outcome**: Random Forest Modeling was trained and evaluated against the dataset and found to be the most predictive, at effectively 94% accuracy, of detecting correlative effects of obesity.
     - [Github Repository](https://github.com/mojodean/aai-500-project-obesity-levels)
 
-- 📝 **Towards a Christian Ethical Framework for Artificial Intelligence**
+- 📝 *Towards a Christian Ethical Framework for Artificial Intelligence*
     - 2019 (unpublished)
     - Capstone Essay for Master of Arts in Religion (Church History & Theology).
     - Focused on how a Christian ethical understand of humanity might inform a perspective on artificial intelligence.
