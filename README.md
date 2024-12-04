@@ -14,6 +14,14 @@ I have a full time career in software engineering leadership. In addition, I'm p
 I am a Vice President of Engineering at Rocket Companies, based out of Detroit, Michigan. My teams focus on our client products and we use cloud infrastructure and resources to build and deploy APIs and services to deliver incredible experiences for our consumers.  
 
 ### Previous Projects
+
+- 🧑‍💻 **Predicting Emotion From Speech With A Speech Emotion Recognition (SER) Model**
+    - **Goal**: Identify and implement a model to detect emotional states in speech.
+    - **Tech Stack**: Python, Jupyter Notebook, scikit-learn, librosa, TensorFlow
+    - **Outcome**: HuBERT Enhanced and CNN-LSTM Enhanced models both produced greater than 90% accuracy, with CNN-LSTM Enhanced achieving an accuracy rate of 98%.
+    - [Github Repository](https://github.com/navanodonavan/MSAAI501FinalProject_Group7/) 
+
+
 - 🧑‍💻 **Predicting Obesity: How Lifestyle and Dietary Factors Shape Weight Outcomes**
     - **Goal**: Identify and implement a model to aid early-detection models for obesity.
     - **Tech Stack**: Python, Jupyter Notebook, scikit-learn, numpy, Pandas
