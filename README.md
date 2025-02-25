@@ -11,7 +11,7 @@ I have a full time career in software engineering leadership. In addition, I'm p
 
 ### 🔭 Work
 
-I am a Vice President of Engineering at Rocket Companies, based out of Detroit, Michigan. My teams focus on our client products and we use cloud infrastructure and resources to build and deploy APIs and services to deliver incredible experiences for our consumers.  
+I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. My teams focus on our client products and we use cloud infrastructure and resources to build and deploy APIs and services for our consumer experiences.
 
 ### Previous Projects
 
