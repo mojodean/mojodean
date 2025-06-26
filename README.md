@@ -15,7 +15,7 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
 
 ### Previous Projects
 
-- 🧑‍💻 ** Forcasting the Unemployment Rate for the San Diego Metropolitan Statistical Area
+- 🧑‍💻 **Forcasting the Unemployment Rate for the San Diego Metropolitan Statistical Area**
     - **Goal**: Implement a model leveraging Bureau of Labor Statistics Unemployment Data to forecast future unemployment rates.
     - **Tech Stack**: Python, numpy, Pandas, ARIMA, DeepAR
     - **Outcome**: DeepAR model outperformed other models, but isn't necessarily the best use case for it. Additional economic and geopolitical factors are likely needed to effectively build out a production-grade model.
