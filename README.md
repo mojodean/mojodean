@@ -19,14 +19,14 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
     - **Goal**: Implement an agentic workflow with prompt chaining to deliver a self-improving financial news agent.
     - **Tech Stack**: Python, LangChain, LangGraph, OpenAI
     - **Outcome**: Agent can retrieve news and stock price information about publicly traded comapnies, including providing sentiment analysis of news coverage and stock price trends.
-    -- [GitHub Repository](https://github.com/mojodean/aai-520-group-3-final-project)
+    - [GitHub Repository](https://github.com/mojodean/aai-520-group-3-final-project)
 
 
 - 🧑‍💻 **MIDI Detection System for Identifying Classical Music Composers from Sound Bites**
     - **Goal**: Implement LSTM and CNN against a Kaggle MIDI dataset to correctly identify four major classical composers
     - **Tech Stack**: Python, CNN, LSTM
     - **Outcome**: models performed reasonably well for the example, but real advancements are needed to detect more composers at scale.
-    -- [GitHub Repository](https://github.com/mojodean/su25-aai511-group3)
+    - [GitHub Repository](https://github.com/mojodean/su25-aai511-group3)
 
 - 🧑‍💻 **Forcasting the Unemployment Rate for the San Diego Metropolitan Statistical Area**
     - **Goal**: Implement a model leveraging Bureau of Labor Statistics Unemployment Data to forecast future unemployment rates.
