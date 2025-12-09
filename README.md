@@ -15,6 +15,12 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
 
 ### Previous Projects
 
+- 🧑‍💻 **Computer Vision for Reptile Detection**
+    - **Goal**: Build and Train a model to detect different species of reptiles in images
+    - **Tech Stack**: Python, PyTortch & Ultralytics YOLOv10, BioTrove-CLIP, Numpy, ImageHash, OpenCV
+    - **Outcome**: Model can match to 60% accuracy some 531 reptile species found in the BioTrove dataset.
+    - [GitHub Repository](https://github.com/mojodean/herpeton)
+
 - 🧑‍💻 **Intelligent Investment Research Agent**
     - **Goal**: Implement an agentic workflow with prompt chaining to deliver a self-improving financial news agent.
     - **Tech Stack**: Python, LangChain, LangGraph, OpenAI
