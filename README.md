@@ -15,6 +15,12 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
 
 ### Previous Projects
 
+- 🧑‍💻 **Cloud Resume Challenge**
+    - **Goal**: Build and deploy a simple HTML/CSS website with cloud resources and IAC.
+    - **Tech Stack**: Lambda, DynamoDB, S3, CloudFront, Route53, and API Gateway.
+    - **Outcome**: Learned and demonstrated execution in a handful of AWS services, as well Hashicorp's Cloud Platform and GitHub Actions workflows.
+    - [GitHub Front End]() [GitHub Back End]()
+
 - 🧑‍💻 **Computer Vision for Reptile Detection**
     - **Goal**: Build and Train a model to detect different species of reptiles in images
     - **Tech Stack**: Python, PyTortch & Ultralytics YOLOv10, BioTrove-CLIP, Numpy, ImageHash, OpenCV
@@ -66,6 +72,8 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
 
 
 ### 💬 Contact
+
+
 
 📫 Reach me via [email](https://www.deanpsimmer.com/contact/) or on [LinkedIn](https://www.linkedin.com/in/deanpsimmer/) if that's your preference.
 
