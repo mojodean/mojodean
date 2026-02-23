@@ -21,6 +21,12 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
     - **Outcome**: Learned and demonstrated execution in a handful of AWS services, as well Hashicorp's Cloud Platform and GitHub Actions workflows.
     - [GitHub Front End]() [GitHub Back End]()
 
+- 🧑‍💻 **VenueSignal**
+    - **Goal**: Build, train, and deploy a fully-operational MLOps system. The model was trained on the Yelp Open Dataset to predict the impact of parking accessibility on new businesses in urban settings.
+    - **Tech Stack**: Python, SageMaker, Xgboost, S3, Athena, CloudWatch.
+    - **Outcome**: Feature store with 36 features deploys a robust model that includes model drift improvements based on real time monitoring and drift feedback.
+    - [GitHub Repository](https://github.com/mojodean/venuesignal)  
+
 - 🧑‍💻 **Computer Vision for Reptile Detection**
     - **Goal**: Build and Train a model to detect different species of reptiles in images
     - **Tech Stack**: Python, PyTortch & Ultralytics YOLOv10, BioTrove-CLIP, Numpy, ImageHash, OpenCV
