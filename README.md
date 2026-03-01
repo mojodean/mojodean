@@ -19,7 +19,7 @@ I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. M
     - **Goal**: Build and deploy a simple HTML/CSS website with cloud resources and IAC.
     - **Tech Stack**: Lambda, DynamoDB, S3, CloudFront, Route53, and API Gateway.
     - **Outcome**: Learned and demonstrated execution in a handful of AWS services, as well Hashicorp's Cloud Platform and GitHub Actions workflows.
-    - [GitHub Front End]() [GitHub Back End]()
+    - [GitHub Front End](https://github.com/mojodean/crc-exercise-frontend) [GitHub Back End](https://github.com/mojodean/crc-infra)
 
 - 🧑‍💻 **VenueSignal**
     - **Goal**: Build, train, and deploy a fully-operational MLOps system. The model was trained on the Yelp Open Dataset to predict the impact of parking accessibility on new businesses in urban settings.
