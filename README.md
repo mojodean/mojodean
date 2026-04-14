@@ -5,7 +5,7 @@
 I have a full time career in software engineering leadership. I recently completed a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
 
 ### 🌱 Education
-- M.S. in Applied Artificial Intelligence (University of San Diego) — Alcalá 100 Honoree
+- M.S. in Applied Artificial Intelligence (University of San Diego) — [Alcalá 100 Honoree](https://www.sandiego.edu/alumni/communities/alcala-100.php)
 - M.A. in Religion with a focus on Church History & Theology (Trinity Episcopal)
 - B.A. in History (Hillsdale College)
 
