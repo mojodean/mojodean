@@ -11,7 +11,7 @@ I have a full time career in software engineering leadership. I recently complet
 
 ### 🔭 Work
 
-I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. My teams focus on our client products and we use cloud infrastructure and resources to build and deploy APIs and services for our consumer experiences.
+I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, where I lead the engineering teams behind our digital client experiences — from the first unauthenticated visit through qualification, application, and mortgage origination. My teams ship web and AI/chat products at scale, powered by cloud infrastructure on AWS, with a focus on continuous delivery, reliability, and engineering excellence. I'm deeply invested in advancing agentic engineering workflows — building a culture where AI is a first-class partner in how we design, write, and ship software.
 
 ### Previous Projects
 
