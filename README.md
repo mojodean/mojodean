@@ -2,10 +2,10 @@
 ### My pronouns are he/him. Feel free to call me Dean. 😊
 
 ### About Me
-I have a full time career in software engineering leadership. In addition, I'm pursuing a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
+I have a full time career in software engineering leadership. I recently completed a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
 
 ### 🌱 Education
-- M.S. in Applied Artificial Intelligence (University of San Diego, 2026* *anticipated*)
+- M.S. in Applied Artificial Intelligence (University of San Diego) — Alcalá 100 Honoree
 - M.A. in Religion with a focus on Church History & Theology (Trinity Episcopal)
 - B.A. in History (Hillsdale College)
 
@@ -14,6 +14,12 @@ I have a full time career in software engineering leadership. In addition, I'm p
 I am a Vice President of Engineering at Rocket based out of Detroit, Michigan. My teams focus on our client products and we use cloud infrastructure and resources to build and deploy APIs and services for our consumer experiences.
 
 ### Previous Projects
+
+- 🧑‍💻 **Multi-Disease Outbreak Forecasting with Temporal Deep Learning** *(M.S. Capstone)*
+    - **Goal**: Build a temporal deep learning system to forecast multiple infectious disease outbreaks using Canadian public health surveillance data.
+    - **Tech Stack**: Python, Jupyter Notebook, LSTM, Transformer, ARIMA, Pandas, NumPy, Matplotlib
+    - **Outcome**: Developed and evaluated multiple forecasting models across diseases including influenza and whooping cough, with geographic gap analysis validating model performance against PHAC reporting patterns.
+    - [GitHub Repository](https://github.com/mojodean/AAI-590-capstone-canadian-health)
 
 - 🧑‍💻 **Cloud Resume Challenge**
     - **Goal**: Build and deploy a simple HTML/CSS website with cloud resources and IAC.
