@@ -4,6 +4,12 @@
 ### About Me
 I have a full time career in software engineering leadership. I recently completed a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
 
+### 🌐 Portfolio
+
+My full project portfolio lives at **[mojodean.github.io](https://mojodean.github.io)**, with dedicated pages for each project category:
+- [M.S. Applied AI Projects](https://mojodean.github.io/ms-applied-ai) — nine projects from my graduate program at USD
+- [Cloud Resume Challenge](https://mojodean.github.io/cloud-resume) — full-stack serverless resume site on AWS
+
 ### 🌱 Education
 - M.S. in Applied Artificial Intelligence (University of San Diego) — [Alcalá 100 Honoree](https://www.sandiego.edu/alumni/communities/alcala-100.php)
 - M.A. in Religion with a focus on Church History & Theology (Trinity Episcopal)
@@ -15,17 +21,13 @@ I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, wher
 
 ### Previous Projects
 
+#### [M.S. Applied Artificial Intelligence — University of San Diego](https://mojodean.github.io/ms-applied-ai)
+
 - 🧑‍💻 **Multi-Disease Outbreak Forecasting with Temporal Deep Learning** *(M.S. Capstone)*
     - **Goal**: Build a temporal deep learning system to forecast multiple infectious disease outbreaks using Canadian public health surveillance data.
     - **Tech Stack**: Python, Jupyter Notebook, LSTM, Transformer, ARIMA, Pandas, NumPy, Matplotlib
     - **Outcome**: Developed and evaluated multiple forecasting models across diseases including influenza and whooping cough, with geographic gap analysis validating model performance against PHAC reporting patterns.
     - [GitHub Repository](https://github.com/mojodean/AAI-590-capstone-canadian-health)
-
-- 🧑‍💻 **Cloud Resume Challenge**
-    - **Goal**: Build and deploy a simple HTML/CSS website with cloud resources and IAC.
-    - **Tech Stack**: Lambda, DynamoDB, S3, CloudFront, Route53, and API Gateway.
-    - **Outcome**: Learned and demonstrated execution in a handful of AWS services, as well Hashicorp's Cloud Platform and GitHub Actions workflows.
-    - [GitHub Front End](https://github.com/mojodean/crc-exercise-frontend) [GitHub Back End](https://github.com/mojodean/crc-infra)
 
 - 🧑‍💻 **VenueSignal**
     - **Goal**: Build, train, and deploy a fully-operational MLOps system. The model was trained on the Yelp Open Dataset to predict the impact of parking accessibility on new businesses in urban settings.
@@ -35,24 +37,23 @@ I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, wher
 
 - 🧑‍💻 **Computer Vision for Reptile Detection**
     - **Goal**: Build and Train a model to detect different species of reptiles in images
-    - **Tech Stack**: Python, PyTortch & Ultralytics YOLOv10, BioTrove-CLIP, Numpy, ImageHash, OpenCV
+    - **Tech Stack**: Python, PyTorch & Ultralytics YOLOv10, BioTrove-CLIP, Numpy, ImageHash, OpenCV
     - **Outcome**: Model can match to 60% accuracy some 531 reptile species found in the BioTrove dataset.
     - [GitHub Repository](https://github.com/mojodean/herpeton)
 
 - 🧑‍💻 **Intelligent Investment Research Agent**
     - **Goal**: Implement an agentic workflow with prompt chaining to deliver a self-improving financial news agent.
     - **Tech Stack**: Python, LangChain, LangGraph, OpenAI
-    - **Outcome**: Agent can retrieve news and stock price information about publicly traded comapnies, including providing sentiment analysis of news coverage and stock price trends.
+    - **Outcome**: Agent can retrieve news and stock price information about publicly traded companies, including providing sentiment analysis of news coverage and stock price trends.
     - [GitHub Repository](https://github.com/mojodean/aai-520-group-3-final-project)
-
 
 - 🧑‍💻 **MIDI Detection System for Identifying Classical Music Composers from Sound Bites**
     - **Goal**: Implement LSTM and CNN against a Kaggle MIDI dataset to correctly identify four major classical composers
     - **Tech Stack**: Python, CNN, LSTM
-    - **Outcome**: models performed reasonably well for the example, but real advancements are needed to detect more composers at scale.
+    - **Outcome**: Models performed reasonably well for the example, but real advancements are needed to detect more composers at scale.
     - [GitHub Repository](https://github.com/mojodean/su25-aai511-group3)
 
-- 🧑‍💻 **Forcasting the Unemployment Rate for the San Diego Metropolitan Statistical Area**
+- 🧑‍💻 **Forecasting the Unemployment Rate for the San Diego Metropolitan Statistical Area**
     - **Goal**: Implement a model leveraging Bureau of Labor Statistics Unemployment Data to forecast future unemployment rates.
     - **Tech Stack**: Python, numpy, Pandas, ARIMA, DeepAR
     - **Outcome**: DeepAR model outperformed other models, but isn't necessarily the best use case for it. Additional economic and geopolitical factors are likely needed to effectively build out a production-grade model.
@@ -70,7 +71,6 @@ I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, wher
     - **Outcome**: HuBERT Enhanced and CNN-LSTM Enhanced models both produced greater than 90% accuracy, with CNN-LSTM Enhanced achieving an accuracy rate of 98%.
     - [GitHub Repository](https://github.com/mojodean/MSAAI501FinalProject_Group7) 
 
-
 - 🧑‍💻 **Predicting Obesity: How Lifestyle and Dietary Factors Shape Weight Outcomes**
     - **Goal**: Identify and implement a model to aid early-detection models for obesity.
     - **Tech Stack**: Python, Jupyter Notebook, scikit-learn, numpy, Pandas
@@ -81,6 +81,14 @@ I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, wher
     - 2019 (unpublished)
     - Capstone Research Project for Master of Arts in Religion (Church History & Theology).
     - Focused on how a Christian ethical understanding of humanity might inform a perspective on artificial intelligence. This project looked specifically at the lens of how evangelical theology has a very narrow perspective on human identity and, as a result, cannot speak effectively in response to artificial intelligence.
+
+#### [Cloud Resume Challenge](https://mojodean.github.io/cloud-resume)
+
+- 🧑‍💻 **Cloud Resume Challenge**
+    - **Goal**: Build and deploy a simple HTML/CSS website with cloud resources and IAC.
+    - **Tech Stack**: Lambda, DynamoDB, S3, CloudFront, Route53, and API Gateway.
+    - **Outcome**: Learned and demonstrated execution in a handful of AWS services, as well as Hashicorp's Cloud Platform and GitHub Actions workflows.
+    - [GitHub Front End](https://github.com/mojodean/crc-exercise-frontend) [GitHub Back End](https://github.com/mojodean/crc-infra)
 
 
 ### 💬 Contact
@@ -111,10 +119,10 @@ The badges above come from here: https://github.com/Ileriayo/markdown-badges?tab
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
