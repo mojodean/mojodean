@@ -77,10 +77,10 @@ I am a Vice President of Engineering at Rocket, based in Detroit, Michigan, wher
     - **Outcome**: Random Forest Modeling was trained and evaluated against the dataset and found to be the most predictive, at effectively 94% accuracy, of detecting correlative effects of obesity.
     - [GitHub Repository](https://github.com/mojodean/aai-500-project-obesity-levels)
 
-- 📝 *Towards a Christian Ethical Framework for Artificial Intelligence*
+- 📝 *Toward a Christian Ethical Framework for Artificial Intelligence*
     - 2019 (unpublished)
     - Capstone Research Project for Master of Arts in Religion (Church History & Theology).
-    - Focused on how a Christian ethical understanding of humanity might inform a perspective on artificial intelligence. This project looked specifically at the lens of how evangelical theology has a very narrow perspective on human identity and, as a result, cannot speak effectively in response to artificial intelligence.
+    - Argues that the central Christian ethical question about AI isn't about AI itself, but about the humans who design, build, and deploy it: are they being faithful with what they've built? Draws on a critique of gnostic tendencies in both Evangelical and Mainline Protestant theology to explain why much of American Christianity remains underequipped to offer that critique.
 
 #### [Cloud Resume Challenge](https://mojodean.github.io/cloud-resume)
 
