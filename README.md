@@ -2,7 +2,7 @@
 ### My pronouns are he/him. Feel free to call me Dean. 😊
 
 ### About Me
-I have a full time career in software engineering leadership. I recently completed a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
+I have a full time career in software engineering leadership. I recently completed a [Master of Science in Applied Artificial Intelligence](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php) at the University of San Diego, and I'm now a PhD student in Systems Engineering at Colorado State University. I've got a background in technology and a few other degrees that have shaped how I think about technical and ethical problems in the world today.
 
 ### 🌐 Portfolio
 
@@ -11,6 +11,7 @@ My full project portfolio lives at **[mojodean.github.io](https://mojodean.githu
 - [Cloud Resume Challenge](https://mojodean.github.io/cloud-resume) — full-stack serverless resume site on AWS
 
 ### 🌱 Education
+- PhD Student, Systems Engineering (Colorado State University)
 - M.S. in Applied Artificial Intelligence (University of San Diego) — [Alcalá 100 Honoree](https://www.sandiego.edu/alumni/communities/alcala-100.php)
 - M.A. in Religion with a focus on Church History & Theology (Trinity Episcopal)
 - B.A. in History (Hillsdale College)
